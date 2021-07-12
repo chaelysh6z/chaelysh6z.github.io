@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "chaelysh6z's Develog"
+title                    : "Chaeeun's Develog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "chaelysh6z"
+name                     : "Chaeeun Lee"
 description              : "An amazing website."
 url                      : "https://chaelysh6z.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "chaelysh6z"
+  name             : "Chaeeun Lee"
   avatar           : "/assets/avatar.gif"
   bio              : "I am an **amazing** person."
   location         : "South Korea"
