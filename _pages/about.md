@@ -10,8 +10,21 @@ author_profile: true
 ## Profile
 
 - Name: Chaeeun Lee
-- Age: 22
+- 
 
 ## History
 
-- 없음
+- 
+
+## Skills
+
+- Python
+- C / C++ / C#
+- Java
+- Web
+
+## Contact
+
++ [Blog](chaelysh6z.github.io)
++ <chaelysh6z@gmail.com>
++ [GitHub](https://github.com/chaelysh6z)
