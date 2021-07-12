@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chae Eun's Develog"
+title                    : "chaelysh6z's Develog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chae Eun Lee"
+name                     : "chaelysh6z"
 description              : "An amazing website."
 url                      : "https://chaelysh6z.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chae Eun Lee"
+  name             : "chaelysh6z"
   avatar           : "/assets/avatar.gif"
   bio              : "I am an **amazing** person."
   location         : "South Korea"
@@ -124,7 +124,7 @@ author:
       url: "https://github.com/chaelysh6z"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/chaelysh6z/"
+      # url: 
 
 # Site Footer
 footer:
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/chaelysh6z/"
+      # url: 
 
 
 # Reading Files
