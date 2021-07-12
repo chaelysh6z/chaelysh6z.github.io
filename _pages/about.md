@@ -1,8 +1,7 @@
 ---
-title: "About"
 permalink: /about/
-toc_sticky: true
-toc_ads : true
+title: "About"
+toc: true
 layout: single
 author_profile: true
 ---
