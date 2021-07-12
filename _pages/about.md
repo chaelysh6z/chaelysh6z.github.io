@@ -1,18 +1,16 @@
 ---
-permalink: /about/
 title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2021-05-11T10:23:16-04:00
-toc: true
+permalink: /about/
+toc_sticky: true
+toc_ads : true
 layout: single
 author_profile: true
 ---
 
-## Profile
+## devinlife.github.io 블로그
 
-- Name: Chaeeun Lee
-- Age: 22
+이 블로그는 Github Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
 
-## History
-
-- 메롱
+진짜 블로그인 <https://devinlife.com>을 방문해보자.
+이 곳에서 이 샘플 블로그를 같이 만들어보는 Github Pages 블로그 따라하기 시리즈의
+모든 글을 볼 수 있다.
