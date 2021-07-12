@@ -11,3 +11,7 @@ author_profile: true
 
 - Name: Chaeeun Lee
 - Age: 22
+
+## History
+
+-메롱
