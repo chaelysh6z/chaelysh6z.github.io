@@ -11,7 +11,7 @@ last_modified_at: 2021-07-13T02:01:16-04:00
 ## Profile
 
 - Name: Chaeeun Lee
-- 
+- Major: IT Convergence Engineering
 
 ## History
 
