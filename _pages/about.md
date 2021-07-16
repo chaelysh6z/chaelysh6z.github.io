@@ -19,8 +19,10 @@ last_modified_at: 2021-07-13T02:01:16-04:00
 
 ## Skills
 
+- C, C++, C#
+- Unity
+- UE4
 - Python
-- C / C++ / C#
 - Java
 - Web
 
